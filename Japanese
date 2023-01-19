@@ -1,0 +1,1103 @@
+{
+  "actionsOnClustersPermissions": {
+    "defaultMessage": "組織のみ。管理者とクラスターの所有者は、クラスターに対してアクションを実行できます。",
+    "description": "Actions on clusters permissions message"
+  },
+  "active": {
+    "defaultMessage": "アクティブ",
+    "description": "Active label"
+  },
+  "addGroupMembersErrorDescription": {
+    "defaultMessage": "メンバーは正常に追加されませんでした。",
+    "description": "Add group members error notification description"
+  },
+  "addGroupMembersErrorTitle": {
+    "defaultMessage": "グループにメンバーを追加できませんでした",
+    "description": "Add group members error notification title"
+  },
+  "addGroupMembersSuccessDescription": {
+    "defaultMessage": "メンバーがグループに正常に追加されました。",
+    "description": "Add group members success notification description"
+  },
+  "addGroupMembersSuccessTitle": {
+    "defaultMessage": "メンバーをグループに追加しました",
+    "description": "Add group members success notification title"
+  },
+  "addGroupRolesErrorDescription": {
+    "defaultMessage": "ロールは正常に追加されませんでした。",
+    "description": "Add group roles error notification description"
+  },
+  "addGroupRolesErrorTitle": {
+    "defaultMessage": "グループにロールを追加できませんでした",
+    "description": "Add group roles error notification title"
+  },
+  "addGroupRolesSuccessDescription": {
+    "defaultMessage": "ロールがグループに追加されました。",
+    "description": "Add group roles success notification description"
+  },
+  "addGroupSuccessDescription": {
+    "defaultMessage": "グループは正常に追加されました。",
+    "description": "Add group success notification description"
+  },
+  "addGroupSuccessTitle": {
+    "defaultMessage": "グループの追加に成功",
+    "description": "Add group success notification title"
+  },
+  "addGrouprolesSuccessTitle": {
+    "defaultMessage": "グループにロールを追加しました",
+    "description": "Add group roles success notification title"
+  },
+  "addMember": {
+    "defaultMessage": "メンバーを追加",
+    "description": "Add member"
+  },
+  "addMembers": {
+    "defaultMessage": "メンバーを追加",
+    "description": "Add members wizard step title"
+  },
+  "addNewUsersText": {
+    "defaultMessage": "新しいユーザーを追加したり、既存のユーザーを管理するには、",
+    "description": "Add new users text"
+  },
+  "addPermission": {
+    "defaultMessage": "権限を追加",
+    "description": "Add permission label"
+  },
+  "addPermissions": {
+    "defaultMessage": "権限を追加",
+    "description": "Add permissions label"
+  },
+  "addPolicyErrorDescription": {
+    "defaultMessage": "ポリシーは正常に追加されませんでした。",
+    "description": "Add policy error notification description"
+  },
+  "addPolicyErrorTitle": {
+    "defaultMessage": "ポリシーの追加に失敗しました",
+    "description": "Add policy error notification title"
+  },
+  "addPolicySuccessDescription": {
+    "defaultMessage": "ポリシーは正常に追加されました。",
+    "description": "Add policy success notification description"
+  },
+  "addPolicySuccessTitle": {
+    "defaultMessage": "成功追加ポリシー",
+    "description": "Add policy success notification title"
+  },
+  "addRole": {
+    "defaultMessage": "役割を追加",
+    "description": "Add role title"
+  },
+  "addRoleToConfigureAccess": {
+    "defaultMessage": "ユーザーアクセスを設定する役割を追加します。",
+    "description": "Add role to configure user access message"
+  },
+  "addRoleToGroup": {
+    "defaultMessage": "グループにロールを追加",
+    "description": "Add role to group label"
+  },
+  "addRoles": {
+    "defaultMessage": "役割を追加",
+    "description": "Add roles wizard step title"
+  },
+  "addRolesToGroup": {
+    "defaultMessage": "グループにロールを追加",
+    "description": "Add roles to group label"
+  },
+  "addToDefinitions": {
+    "defaultMessage": "定義に追加",
+    "description": "Add to definitions message"
+  },
+  "addToGroup": {
+    "defaultMessage": "グループに追加",
+    "description": "Add to group label"
+  },
+  "addUserToConfigure": {
+    "defaultMessage": "ユーザーアクセスを設定するユーザーを追加します。",
+    "description": "Add a user to configure user access message"
+  },
+  "addedPermissions": {
+    "defaultMessage": "追加された権限",
+    "description": "Added permissions label"
+  },
+  "addingGroupCanceledDescription": {
+    "defaultMessage": "グループの追加はユーザーによってキャンセルされました。",
+    "description": "Adding group canceled notification description"
+  },
+  "addingGroupMemberCancelled": {
+    "defaultMessage": "グループへのメンバの追加は、ユーザーによってキャンセルされました。",
+    "description": "Adding group member cancelled notification description"
+  },
+  "addingGroupMemberDescription": {
+    "defaultMessage": "初期化されたグループにメンバーを追加します。",
+    "description": "Adding group member notification description"
+  },
+  "addingGroupMemberTitle": {
+    "defaultMessage": "グループにメンバーを追加",
+    "description": "Adding group member notification title"
+  },
+  "addingGroupMembersCancelled": {
+    "defaultMessage": "グループへのメンバの追加は、ユーザーによってキャンセルされました。",
+    "description": "Adding group members cancelled notification description"
+  },
+  "addingGroupMembersDescription": {
+    "defaultMessage": "初期化されたグループにメンバーを追加します。",
+    "description": "Adding group members notification description"
+  },
+  "addingGroupMembersTitle": {
+    "defaultMessage": "グループにメンバーを追加する",
+    "description": "Adding group members notification title"
+  },
+  "addingGroupRolesCancelled": {
+    "defaultMessage": "グループへのロールの追加はユーザーによってキャンセルされました。",
+    "description": "Adding group roles cancelled notification description"
+  },
+  "addingGroupRolesTitle": {
+    "defaultMessage": "グループにロールを追加",
+    "description": "Adding group roles notification title"
+  },
+  "addingGroupTitle": {
+    "defaultMessage": "グループを追加中",
+    "description": "Adding group notification title"
+  },
+  "allOrgAdminsAreMembers": {
+    "defaultMessage": "この組織のすべての組織管理者はこのグループのメンバーです。",
+    "description": "All org. admins are members of this group message"
+  },
+  "allRolesAdded": {
+    "defaultMessage": "利用可能なすべてのロールがすでにグループに追加されています",
+    "description": "All roles already to the group message"
+  },
+  "allUsersAreMembers": {
+    "defaultMessage": "この組織のすべてのユーザーはこのグループのメンバーです。",
+    "description": "All users are members of this group message"
+  },
+  "allUsersViewEverything": {
+    "defaultMessage": "組織内のすべてのユーザーがすべてを表示することができます。",
+    "description": "All users in the organization may view everything message"
+  },
+  "appServicesNotManaged": {
+    "defaultMessage": "アプリケーション・サービスの権限はユーザーアクセス権限で管理されていません",
+    "description": "Application Services permissions are not managed with User Access message"
+  },
+  "application": {
+    "defaultMessage": "アプリケーション",
+    "description": "Application label"
+  },
+  "applyCostPermissionText": {
+    "defaultMessage": "下のドロップダウンを使用して、前のステップで選択した各コスト権限を適用する場所を指定します。",
+    "description": "Apply Cost permission text"
+  },
+  "assignAtLeastOneResource": {
+    "defaultMessage": "各権限に少なくとも1つのリソースを割り当てる必要があります。",
+    "description": "Assign at least one resource message"
+  },
+  "backToPreviousPage": {
+    "defaultMessage": "前のページに戻る",
+    "description": "Back to previous page label"
+  },
+  "baseRole": {
+    "defaultMessage": "基本の役割",
+    "description": "Base role label"
+  },
+  "cancel": {
+    "defaultMessage": "キャンセル",
+    "description": "Cancel button text"
+  },
+  "changesWillBeLost": {
+    "defaultMessage": "すべての変更は失われます",
+    "description": "All changes will be lost message"
+  },
+  "checkFilterBeginning": {
+    "defaultMessage": "検索入力の先頭が探している値の先頭に対応していることを確認するか、フィルタの設定を変更してください。",
+    "description": "Message advising checking the filter value"
+  },
+  "chooseSubscriptionEllipsis": {
+    "defaultMessage": "サブスクリプションを選択...",
+    "description": "Choose subscription message"
+  },
+  "clearAllFilters": {
+    "defaultMessage": "すべてのフィルターをクリア",
+    "description": "Clear all filters message"
+  },
+  "close": {
+    "defaultMessage": "閉じる",
+    "description": "Close button text"
+  },
+  "configureCostSources": {
+    "defaultMessage": "コスト管理のソースを設定",
+    "description": "Configure resources for Cost management message"
+  },
+  "configureItems": {
+    "defaultMessage": "{items} を設定",
+    "description": "Configure items message"
+  },
+  "configureResourcesForPermission": {
+    "defaultMessage": "この権限をロールに追加し、特定のリソースを定義するには、少なくとも 1 つのデータ ソースを接続する必要があります。",
+    "description": "Configure resources for permission message"
+  },
+  "confirm": {
+    "defaultMessage": "確認する",
+    "description": "Confirm button text"
+  },
+  "confirmCheckMessage": {
+    "defaultMessage": "私は理解し、私は続けたい。",
+    "description": "Confirm modal check message"
+  },
+  "confirmDetails": {
+    "defaultMessage": "詳細を確認",
+    "description": "Confirm details message"
+  },
+  "confirmDetailsDescription": {
+    "defaultMessage": "ソースの詳細を確認するか、戻るをクリックして編集",
+    "description": "Confirm details description message"
+  },
+  "contactOrgAdministrator": {
+    "defaultMessage": "詳細については組織の管理者にお問い合わせください。",
+    "description": "Contact org. administrator for more info message"
+  },
+  "contactServiceTeamForRoles": {
+    "defaultMessage": "ロールを追加するには、プラットフォームサービスチームにお問い合わせください。",
+    "description": "Contact service team to add roles message"
+  },
+  "continue": {
+    "defaultMessage": "続ける",
+    "description": "Continue label"
+  },
+  "copyAnExistingRole": {
+    "defaultMessage": "既存のロールをコピー",
+    "description": "Copy an existing role option"
+  },
+  "createAnotherRole": {
+    "defaultMessage": "別の役割を作成",
+    "description": "Create another role message"
+  },
+  "createAtLeastOneItem": {
+    "defaultMessage": "少なくとも 1 つの {item} を作成してください",
+    "description": "Empty state description 2nd part"
+  },
+  "createGroup": {
+    "defaultMessage": "グループを作成",
+    "description": "Create group wizard title"
+  },
+  "createRole": {
+    "defaultMessage": "役割を作成",
+    "description": "Create role label"
+  },
+  "createRoleErrorDescription": {
+    "defaultMessage": "ロールは正常に追加されませんでした。",
+    "description": "Create role error notification description"
+  },
+  "createRoleErrorTitle": {
+    "defaultMessage": "ロールの追加に失敗しました",
+    "description": "Create role error notification title"
+  },
+  "createRoleFromScratch": {
+    "defaultMessage": "ロールを最初から作成",
+    "description": "Create role from scratch option"
+  },
+  "creatingRoleCanceled": {
+    "defaultMessage": "ロールの作成はユーザーによってキャンセルされました",
+    "description": "Creating role canceled notification message"
+  },
+  "defaultAccessGroupChanged": {
+    "defaultMessage": "デフォルトのアクセスグループが変更されました",
+    "description": "Default access group changed message"
+  },
+  "defaultAccessGroupEditWarning": {
+    "defaultMessage": "Once you edit the <b>Default access</b> group, the system will no longer update it with new default access roles. The group name will change to <b>Custom default access</b>.",
+    "description": "Message warning that editing a Default access group will rename it"
+  },
+  "defaultAccessGroupNameChanged": {
+    "defaultMessage": "Now that you have edited the <b>Default access</b> group, the system will no longer update it with new default access roles. The group name has changed to <b>Custom default access</b>.",
+    "description": "Default access group renamed message"
+  },
+  "defaultGroupNotManually": {
+    "defaultMessage": "デフォルトの管理者アクセスグループのロールは手動で変更できません",
+    "description": "Message warning that default admin access group cannot be modified manually"
+  },
+  "defineAtLeastOneResource": {
+    "defaultMessage": "この権限には少なくとも1つのリソースを定義する必要があります",
+    "description": "Define at least one resource message"
+  },
+  "defineCostResources": {
+    "defaultMessage": "コスト管理リソースの定義",
+    "description": "Define Cost Management resources label"
+  },
+  "definedResources": {
+    "defaultMessage": "定義済リソース",
+    "description": "Defined resources label"
+  },
+  "delete": {
+    "defaultMessage": "削除",
+    "description": "Delete button text"
+  },
+  "deleteGroup": {
+    "defaultMessage": "グループを削除",
+    "description": "Delete group label"
+  },
+  "deleteGroupQuestion": {
+    "defaultMessage": "グループを削除しますか",
+    "description": "Delete group question label"
+  },
+  "deleteGroups": {
+    "defaultMessage": "グループを削除",
+    "description": "Delete groups label"
+  },
+  "deleteGroupsQuestion": {
+    "defaultMessage": "グループを削除しますか？",
+    "description": "Delete groups question label"
+  },
+  "deleteRoleQuestion": {
+    "defaultMessage": "ロールを削除しますか？",
+    "description": "Delete role question message"
+  },
+  "deletingGroupRemovesRoles": {
+    "defaultMessage": "<b>{name}</b> グループを削除すると、グループ内のメンバーからすべてのロールが削除されます。",
+    "description": "Delete group label"
+  },
+  "deletingGroupsRemovesRoles": {
+    "defaultMessage": "これらの <b>{count}</b> グループを削除すると、グループ内のメンバーからすべてのロールが削除されます。",
+    "description": "Delete groups label"
+  },
+  "description": {
+    "defaultMessage": "説明",
+    "description": "Description column label"
+  },
+  "discardedInputsWarning": {
+    "defaultMessage": "すべての入力が破棄されます",
+    "description": "Warning saying that all inputs will be discarded"
+  },
+  "edit": {
+    "defaultMessage": "編集",
+    "description": "Edit button text"
+  },
+  "editGroupCanceledDescription": {
+    "defaultMessage": "ユーザーによってグループの編集がキャンセルされました。",
+    "description": "Edit group canceled notification description"
+  },
+  "editGroupErrorDescription": {
+    "defaultMessage": "グループが更新されませんでした。",
+    "description": "Edit group error notification description"
+  },
+  "editGroupErrorTitle": {
+    "defaultMessage": "グループの更新に失敗しました",
+    "description": "Edit group error notification title"
+  },
+  "editGroupInfo": {
+    "defaultMessage": "グループ情報を編集",
+    "description": "Edit group's information message"
+  },
+  "editGroupSuccessDescription": {
+    "defaultMessage": "グループが更新されました。",
+    "description": "Edit group success notification description"
+  },
+  "editGroupSuccessTitle": {
+    "defaultMessage": "グループの更新に成功",
+    "description": "Edit group success notification title"
+  },
+  "editPermissionsUsingArrows": {
+    "defaultMessage": "以下の矢印を使用して特定のリソースに権限を付与または削除します。",
+    "description": "Edit permissions using arrows label"
+  },
+  "editPolicyErrorDescription": {
+    "defaultMessage": "ポリシーが更新されませんでした。",
+    "description": "Edit policy error notification description"
+  },
+  "editPolicyErrorTitle": {
+    "defaultMessage": "更新に失敗しました",
+    "description": "Edit policy error notification title"
+  },
+  "editPolicySuccessDescription": {
+    "defaultMessage": "ポリシーは正常に更新されました。",
+    "description": "Edit policy success notification description"
+  },
+  "editPolicySuccessTitle": {
+    "defaultMessage": "成功更新ポリシー",
+    "description": "Edit policy success notification title"
+  },
+  "editResourceDefinitions": {
+    "defaultMessage": "リソース定義を編集",
+    "description": "Edit resource definitions label"
+  },
+  "editRoleErrorDescription": {
+    "defaultMessage": "ロールが更新されませんでした。",
+    "description": "Edit role error notification description"
+  },
+  "editRoleErrorTitle": {
+    "defaultMessage": "ロールの更新に失敗しました",
+    "description": "Edit role error notification title"
+  },
+  "editRoleSuccessDescription": {
+    "defaultMessage": "ロールが正常に更新されました。",
+    "description": "Edit role success notification description"
+  },
+  "editRoleSuccessTitle": {
+    "defaultMessage": "役割の更新に成功",
+    "description": "Edit role success notification title"
+  },
+  "editingGroupTitle": {
+    "defaultMessage": "グループを編集",
+    "description": "Editing group notification title"
+  },
+  "editingRoleCanceledDescription": {
+    "defaultMessage": "ユーザーによって編集権限がキャンセルされました。",
+    "description": "Editing role canceled notification description"
+  },
+  "editingRoleTitle": {
+    "defaultMessage": "役割の編集",
+    "description": "Editing role notification title"
+  },
+  "email": {
+    "defaultMessage": "Eメールアドレス",
+    "description": "Email label"
+  },
+  "exit": {
+    "defaultMessage": "終了",
+    "description": "Exit button text"
+  },
+  "exitEditResourceDefinitions": {
+    "defaultMessage": "リソース定義を終了しますか？",
+    "description": "Exit edit resource definitions question text"
+  },
+  "exitItemCreation": {
+    "defaultMessage": "{item} を終了しますか？",
+    "description": "Exit item creation modal title"
+  },
+  "filterByKey": {
+    "defaultMessage": "{key} でフィルター",
+    "description": "Filter by data key label"
+  },
+  "filterByResource": {
+    "defaultMessage": "リソースでフィルタ...",
+    "description": "Filter by resource label"
+  },
+  "filterMatchesNoFilters": {
+    "defaultMessage": "このフィルター条件は {items} に一致しません。",
+    "description": "No matching items for filter criteria message"
+  },
+  "filterMatchesNoItems": {
+    "defaultMessage": "このフィルター条件は {items} に一致しません。",
+    "description": "No matching items for filter criteria message"
+  },
+  "firstName": {
+    "defaultMessage": "名",
+    "description": "First name label"
+  },
+  "followingPermissionsCannotBeAdded": {
+    "defaultMessage": "次の権限はカスタムロールに追加できず、コピーされたロールから削除されました:",
+    "description": "Following permissions cannot be added message"
+  },
+  "granularPermissionsWillBeCopied": {
+    "defaultMessage": "細かい権限のみがカスタムロールにコピーされます (例えば、approval:requests:read)。 ワイルドカードの権限はカスタムロールにコピーされません (例: approval:*:read)。",
+    "description": "Granular permissions will be copied message"
+  },
+  "group": {
+    "defaultMessage": "グループ",
+    "description": "Group singular"
+  },
+  "groupDescription": {
+    "defaultMessage": "グループの説明",
+    "description": "Group description label"
+  },
+  "groupDoesNotExist": {
+    "defaultMessage": "ID {id} のグループは存在しません。",
+    "description": "Group with given ID does not exist message"
+  },
+  "groupName": {
+    "defaultMessage": "グループ名",
+    "description": "Group name label"
+  },
+  "groupNameTakenText": {
+    "defaultMessage": "ステップ1:グループ情報に戻り、グループに固有のグループ名を選択してください。",
+    "description": "Group name taken error text"
+  },
+  "groupNameTakenTitle": {
+    "defaultMessage": "グループ名は既に使用されています",
+    "description": "Group name taken error title"
+  },
+  "groupNotFound": {
+    "defaultMessage": "グループが見つかりません",
+    "description": "Group not found message"
+  },
+  "groups": {
+    "defaultMessage": "グループ",
+    "description": "Groups plural"
+  },
+  "inactive": {
+    "defaultMessage": "非アクティブ",
+    "description": "Inactive label"
+  },
+  "invalidGroup": {
+    "defaultMessage": "無効なグループ",
+    "description": "Invalid group message"
+  },
+  "invalidRole": {
+    "defaultMessage": "無効な役割です",
+    "description": "Invalid role message"
+  },
+  "invalidUser": {
+    "defaultMessage": "無効なユーザー",
+    "description": "Invalid user message"
+  },
+  "key": {
+    "defaultMessage": "キー",
+    "description": "Key label"
+  },
+  "lastCommit": {
+    "defaultMessage": "最後のコミット",
+    "description": "Last commit label"
+  },
+  "lastModified": {
+    "defaultMessage": "最終更新日時",
+    "description": "Last modified column label"
+  },
+  "lastName": {
+    "defaultMessage": "姓",
+    "description": "Last name label"
+  },
+  "maxCharactersWarning": {
+    "defaultMessage": "最大 {number} 文字まで入力できます。",
+    "description": "Maximum number of characters message"
+  },
+  "member": {
+    "defaultMessage": "メンバー",
+    "description": "Member text"
+  },
+  "members": {
+    "defaultMessage": "メンバー",
+    "description": "Group members label"
+  },
+  "myUserAccess": {
+    "defaultMessage": "マイユーザーアクセス",
+    "description": "My User Access label"
+  },
+  "name": {
+    "defaultMessage": "名前",
+    "description": "Name column label"
+  },
+  "nameAlreadyTaken": {
+    "defaultMessage": "名前は既に使用されています。",
+    "description": "Name has been already taken validation message"
+  },
+  "nameAndDescription": {
+    "defaultMessage": "名前と説明",
+    "description": "Name and description wizard step title"
+  },
+  "no": {
+    "defaultMessage": "いいえ",
+    "description": "No label"
+  },
+  "noCostManagementPermissions": {
+    "defaultMessage": "ロールにコスト管理権限を追加する権利はありません。",
+    "description": "No Cost management permissions message"
+  },
+  "noGroupMembers": {
+    "defaultMessage": "このグループにはメンバーがいません。",
+    "description": "No members in a given group title"
+  },
+  "noGroupRoles": {
+    "defaultMessage": "このグループにはロールがありません",
+    "description": "No roles in a group message"
+  },
+  "noMatchingItemsFound": {
+    "defaultMessage": "一致する {items} が見つかりません",
+    "description": "No matching items found message"
+  },
+  "noPermissionsForInsights": {
+    "defaultMessage": "Insightsに対する個々の権限がありません。",
+    "description": "No individual permissions for Insights message"
+  },
+  "noResourceDefinitions": {
+    "defaultMessage": "{permission} 権限のリソース定義がありません",
+    "description": "There are no resource definitions for permission message"
+  },
+  "noResultsFound": {
+    "defaultMessage": "結果が見つかりませんでした",
+    "description": "No results found message"
+  },
+  "noRolePermissions": {
+    "defaultMessage": "このロールに権限がありません",
+    "description": "No role permissions text"
+  },
+  "noWildcardPermissions": {
+    "defaultMessage": "ワイルドカードの権限（例えば、承認：*：*）はこのテーブルに含まれておらず、カスタムロールに追加することはできません。",
+    "description": "No wildcard permissions message"
+  },
+  "none": {
+    "defaultMessage": "なし",
+    "description": "None select option text"
+  },
+  "notApplicable": {
+    "defaultMessage": "該当なし",
+    "description": "Not applicable text for resource definitions"
+  },
+  "notSubscribed": {
+    "defaultMessage": "購読していません",
+    "description": "Not subscribed label"
+  },
+  "onlyGranularPermissions": {
+    "defaultMessage": "カスタムロールは粒度の権限のみをサポートします",
+    "description": "Only granular permissions message"
+  },
+  "onlyGroupRolesVisible": {
+    "defaultMessage": "このロールリストは、現在 <b>{name}</b>にないロールのみを表示するようにフィルタされています。",
+    "description": "Message warning that only roles in given role has been filtered"
+  },
+  "openshiftPermissions": {
+    "defaultMessage": "組織内のすべてのユーザーはすべて表示できますが、管理者とクラスター所有者のみがクラスターに対してアクションを実行できます。 以下の表は、その他の OpenShift アプリケーションおよびサービスのロールを表示しています。",
+    "description": "Openshift permissions message"
+  },
+  "operation": {
+    "defaultMessage": "操作",
+    "description": "Operation label"
+  },
+  "orgAdminHint": {
+    "defaultMessage": "「ユーザーアクセス」で他のユーザーの権限を管理することができます",
+    "description": "User Access Admin hint about permissions"
+  },
+  "orgAdminInheritedRoles": {
+    "defaultMessage": "このグループには、すべての組織管理者ユーザがデフォルトで継承するロールが含まれます。",
+    "description": "Org. Admin inherited roles message"
+  },
+  "orgAdministrator": {
+    "defaultMessage": "Orgの管理者",
+    "description": "Org. Administrator name"
+  },
+  "pageNotExists": {
+    "defaultMessage": "お探しのページは存在しません。",
+    "description": "Placeholder text for non existing page"
+  },
+  "permission": {
+    "defaultMessage": "アクセス許可",
+    "description": "Permission label"
+  },
+  "permissionNotDisplayedDescription": {
+    "defaultMessage": "権限が存在しないか、既にこの役割に追加されています。フィルタを調整して再度お試し下さい。 注: ワイルドカードパーミッションのみを持つアプリケーション (コンプライアンス:*:*) はこのテーブルには含まれていないため、カスタムロールに追加することはできません。",
+    "description": "Permission not displayed description message"
+  },
+  "permissionResourcesDetails": {
+    "defaultMessage": "パーミッションが使用されるリソースの詳細が必要な場合は、こちらで詳述します。",
+    "description": "Permission resources details message"
+  },
+  "permissionStringDescription": {
+    "defaultMessage": "permission文字列は、以下の入力から構成されています。ここでは、どのアプリケーションと、許可されるリソースタイプを示します。",
+    "description": "Permission string description text"
+  },
+  "permissionWillNotBeGrantedThroughRole": {
+    "defaultMessage": "<b>{permission}</b> 権限は <b>{role}</b> ロールを通じて付与されなくなります。",
+    "description": "Permission will not be granted through role message"
+  },
+  "permissions": {
+    "defaultMessage": "アクセス許可",
+    "description": "Permissions label"
+  },
+  "permissionsAddedSuccessfully": {
+    "defaultMessage": "権限をロールに追加しました",
+    "description": "Permissions added successfully message"
+  },
+  "permissionsWillNotBeGrantedThroughRole": {
+    "defaultMessage": "<b>{permissions}</b> 権限は <b>{role}</b> ロールを通じて付与されなくなります。",
+    "description": "Permissions will not be granted through role message"
+  },
+  "pleaseChoose": {
+    "defaultMessage": "選択してください",
+    "description": "Select placehoder"
+  },
+  "rbacGroups": {
+    "defaultMessage": "RBAC グループ",
+    "description": "RBAC Groups error cather title"
+  },
+  "rbacUsers": {
+    "defaultMessage": "RBAC ユーザー",
+    "description": "RBAC Users error cather title"
+  },
+  "remove": {
+    "defaultMessage": "削除",
+    "description": "Remove button label"
+  },
+  "removeGroupError": {
+    "defaultMessage": "グループの削除中にエラーが発生しました。もう一度やり直してください。",
+    "description": "Remove group error notification title"
+  },
+  "removeGroupMembersErrorDescription": {
+    "defaultMessage": "メンバーは正常に削除されませんでした。",
+    "description": "Remove group members error notification description"
+  },
+  "removeGroupMembersErrorTitle": {
+    "defaultMessage": "グループからメンバーを削除できませんでした",
+    "description": "Remove group members error notification title"
+  },
+  "removeGroupMembersSuccessDescription": {
+    "defaultMessage": "メンバーがグループから正常に削除されました。",
+    "description": "Remove group members success notification description"
+  },
+  "removeGroupMembersSuccessTitle": {
+    "defaultMessage": "グループからメンバーを削除しました",
+    "description": "Remove group members success notification title"
+  },
+  "removeGroupRolesErrorDescription": {
+    "defaultMessage": "ロールは正常に削除されませんでした。",
+    "description": "Remove group roles error notification description"
+  },
+  "removeGroupRolesErrorTitle": {
+    "defaultMessage": "グループからロールを削除できませんでした",
+    "description": "Remove group roles error notification title"
+  },
+  "removeGroupRolesSuccessDescription": {
+    "defaultMessage": "ロールがグループから削除されました。",
+    "description": "Remove group roles success notification description"
+  },
+  "removeGroupRolesSuccessTitle": {
+    "defaultMessage": "グループからロールを削除しました",
+    "description": "Remove group roles success notification title"
+  },
+  "removeGroupSuccess": {
+    "defaultMessage": "グループを削除しました",
+    "description": "Remove group success notification title"
+  },
+  "removeGroupsError": {
+    "defaultMessage": "グループの削除中にエラーが発生しました。もう一度やり直してください。",
+    "description": "Remove groups error notification title"
+  },
+  "removeGroupsSuccess": {
+    "defaultMessage": "グループは正常に削除されました",
+    "description": "Remove groups success notification title"
+  },
+  "removeMember": {
+    "defaultMessage": "メンバーを削除",
+    "description": "Remove member"
+  },
+  "removeMemberQuestion": {
+    "defaultMessage": "メンバーを削除しますか？",
+    "description": "Remove member question"
+  },
+  "removeMemberText": {
+    "defaultMessage": "<b>{name}</b> は、 <b>{group}</b> グループに関連するすべての役割を失います。",
+    "description": "Remove member text"
+  },
+  "removeMembersQuestion": {
+    "defaultMessage": "メンバーを削除しますか？",
+    "description": "Remove members question"
+  },
+  "removeMembersText": {
+    "defaultMessage": "これらの <b>{name}</b> メンバーは、 <b>{group}</b> グループに関連するすべての役割を失います。",
+    "description": "Remove members plural text"
+  },
+  "removePermission": {
+    "defaultMessage": "権限を削除",
+    "description": "Remove permission label"
+  },
+  "removePermissionQuestion": {
+    "defaultMessage": "権限を削除しますか？",
+    "description": "Remove permission question text"
+  },
+  "removePermissions": {
+    "defaultMessage": "権限を削除",
+    "description": "Remove permissions label"
+  },
+  "removePermissionsQuestion": {
+    "defaultMessage": "権限を削除しますか？",
+    "description": "Remove permissions question text"
+  },
+  "removePolicySuccessDescription": {
+    "defaultMessage": "ポリシーは正常に削除されました。",
+    "description": "Remove policy success notification description"
+  },
+  "removePolicySuccessTitle": {
+    "defaultMessage": "成功除去ポリシー",
+    "description": "Remove policy success notification title"
+  },
+  "removeRole": {
+    "defaultMessage": "ロールを削除",
+    "description": "Remove role label"
+  },
+  "removeRoleErrorDescription": {
+    "defaultMessage": "ロールは正常に削除されませんでした。",
+    "description": "Remove role error notification description"
+  },
+  "removeRoleErrorTitle": {
+    "defaultMessage": "ロールの削除に失敗しました",
+    "description": "Remove role error notification title"
+  },
+  "removeRoleModalText": {
+    "defaultMessage": "<b>{name}</b> グループのメンバーは、 <b>{role}</b> ロールの権限を失います。",
+    "description": "Remove role message warning about losing permissions"
+  },
+  "removeRoleQuestion": {
+    "defaultMessage": "ロールを削除しますか？",
+    "description": "Remove role question label"
+  },
+  "removeRoleSuccessDescription": {
+    "defaultMessage": "ロールは正常に削除されました。",
+    "description": "Remove role success notification description"
+  },
+  "removeRoleSuccessTitle": {
+    "defaultMessage": "ロールの削除に成功",
+    "description": "Remove role success notification title"
+  },
+  "removeRoles": {
+    "defaultMessage": "ロールを削除",
+    "description": "Remove roles label"
+  },
+  "removeRolesModalText": {
+    "defaultMessage": "<b>{name}</b> グループのメンバーは、これらの <b>{roles}</b> ロールの権限を失います。",
+    "description": "Remove role message warning about losing permissions"
+  },
+  "removeRolesQuestion": {
+    "defaultMessage": "ロールを削除しますか？",
+    "description": "Remove roles question label"
+  },
+  "required": {
+    "defaultMessage": "必須",
+    "description": "Required input label"
+  },
+  "resource": {
+    "defaultMessage": "リソース",
+    "description": "Resource label"
+  },
+  "resourceDefinition": {
+    "defaultMessage": "リソース定義",
+    "description": "Resource definition label"
+  },
+  "resourceDefinitions": {
+    "defaultMessage": "リソースの定義",
+    "description": "Resource definitions label"
+  },
+  "resourceDefinitionsApplyToCost": {
+    "defaultMessage": "リソース定義はコスト管理権限にのみ適用されます",
+    "description": "Resource definitions only apply to Cost Management permissions message"
+  },
+  "resourceType": {
+    "defaultMessage": "リソースタイプ",
+    "description": "Resource type label"
+  },
+  "resources": {
+    "defaultMessage": "リソース",
+    "description": "Resources label"
+  },
+  "resourcesAvailable": {
+    "defaultMessage": "権限のために利用可能なリソース",
+    "description": "Resources available for permission message"
+  },
+  "resourcesDefined": {
+    "defaultMessage": "権限のために定義されたリソース",
+    "description": "Resources defined for permission message"
+  },
+  "restoreDefaultAccessDescription": {
+    "defaultMessage": "Restoring <b>Default access</b> group will remove <b>Custom default access</b> group. <b>Custom default access</b> configurations cannot be recovered. Are you sure?",
+    "description": "Restore Custom Default Access group description"
+  },
+  "restoreDefaultAccessInfo": {
+    "defaultMessage": "This restores <b>Default access</b> group and removes <b>Custom default access</b> group. All configurations in <b>Custom default access</b> are deleted and cannot be recovered.",
+    "description": "Restore Custom Default Access group info"
+  },
+  "restoreDefaultAccessQuestion": {
+    "defaultMessage": "既定のアクセスグループを復元しますか？",
+    "description": "Restore Default access group question"
+  },
+  "restoreToDefault": {
+    "defaultMessage": "既定に戻す",
+    "description": "Restore to default label"
+  },
+  "returnToStepNumber": {
+    "defaultMessage": "ステップ {number} に戻る",
+    "description": "Return to step wizard label"
+  },
+  "review": {
+    "defaultMessage": "レビュー",
+    "description": "Review label"
+  },
+  "reviewDetails": {
+    "defaultMessage": "レビューの詳細",
+    "description": "Review details label"
+  },
+  "reviewRoleDetails": {
+    "defaultMessage": "ロールの詳細を確認して確認するか、format@@0をクリックして修正します。",
+    "description": "Review role details text"
+  },
+  "role": {
+    "defaultMessage": "ロール",
+    "description": "Role singular"
+  },
+  "roleCreatedSuccessfully": {
+    "defaultMessage": "新しい役割を作成しました",
+    "description": "Role created successfully message"
+  },
+  "roleDescription": {
+    "defaultMessage": "役割の説明",
+    "description": "Role description label"
+  },
+  "roleName": {
+    "defaultMessage": "役割名",
+    "description": "Role name filter placeholder"
+  },
+  "roleNameTakenText": {
+    "defaultMessage": "ステップ1に戻ってください: ロールを作成し、カスタムロールのユニークなロール名を選択してください。",
+    "description": "Role name taken error text"
+  },
+  "roleNameTakenTitle": {
+    "defaultMessage": "ロール名は既に使用されています",
+    "description": "Role name taken error title"
+  },
+  "roleWilBeRemovedWithPermissions": {
+    "defaultMessage": "<strong>{name}</strong> ロールは、そのグループから削除されます グループのメンバーにロールの権限が付与されなくなります",
+    "description": "Role will be removed with permissions message"
+  },
+  "roleWithNameExists": {
+    "defaultMessage": "この名前のロールは既に存在します。",
+    "description": "Role with name exists message"
+  },
+  "roles": {
+    "defaultMessage": "ロール",
+    "description": "Roles plural"
+  },
+  "save": {
+    "defaultMessage": "保存",
+    "description": "Save button text"
+  },
+  "seeLess": {
+    "defaultMessage": "表示を減らす",
+    "description": "See less label"
+  },
+  "seeMore": {
+    "defaultMessage": "もっと見る",
+    "description": "See more label"
+  },
+  "selectAll": {
+    "defaultMessage": "すべて選択 ({length})",
+    "description": "Select all button label"
+  },
+  "selectAppsToViewPermissions": {
+    "defaultMessage": "個人の権限を表示するアプリケーションを選択します。",
+    "description": "Select applications to view your personal permissions message"
+  },
+  "selectNone": {
+    "defaultMessage": "選択なし (0)",
+    "description": "Select none button label"
+  },
+  "selectPage": {
+    "defaultMessage": "ページを選択 ({length})",
+    "description": "Select page button label"
+  },
+  "selectPermissionsForRole": {
+    "defaultMessage": "ロールに追加する権限を選択してください",
+    "description": "Select permissions for role label"
+  },
+  "selectResources": {
+    "defaultMessage": "リソースを選択",
+    "description": "Select resources label"
+  },
+  "selectRolesForGroupText": {
+    "defaultMessage": "このグループに追加するロールを1つ以上選択してください。",
+    "description": "Select roles to be added to a group text"
+  },
+  "selectState": {
+    "defaultMessage": "州を選択",
+    "description": "Select state label"
+  },
+  "selectedPermissions": {
+    "defaultMessage": "選択された権限",
+    "description": "Selected permissions label"
+  },
+  "status": {
+    "defaultMessage": "ステータス",
+    "description": "Status label"
+  },
+  "stay": {
+    "defaultMessage": "Stay",
+    "description": "Stay button text"
+  },
+  "toConfigureUserAccess": {
+    "defaultMessage": "アプリケーションへのユーザーアクセスを設定するには",
+    "description": "Empty state description 1st part"
+  },
+  "toManageUsersText": {
+    "defaultMessage": "ユーザーを管理するには、",
+    "description": "To manage users text"
+  },
+  "triggerMyCatalog": {
+    "defaultMessage": "私のカタログをトリガーする",
+    "description": "Trigger my catalog text"
+  },
+  "triggerMyQuickstart": {
+    "defaultMessage": "クイックスタートをトリガーする",
+    "description": "Trigger my quickstart text"
+  },
+  "tryChangingFilters": {
+    "defaultMessage": "フィルター設定を変更してみてください。",
+    "description": "Message advising change of the filter settings"
+  },
+  "understandActionIrreversible": {
+    "defaultMessage": "私はこの行動が取り消せないことを理解している。",
+    "description": "Understand action cannot be undone message"
+  },
+  "user": {
+    "defaultMessage": "ユーザー",
+    "description": "User label"
+  },
+  "userAccessAdmin": {
+    "defaultMessage": "ユーザーアクセス管理者",
+    "description": "User Access Admin name"
+  },
+  "userAccessAdminHint": {
+    "defaultMessage": "「ユーザーアクセス」で他のユーザーの権限を管理することができます",
+    "description": "Org. Admin hint about permissions"
+  },
+  "userDescription": {
+    "defaultMessage": "{username}の役割、グループ、権限。",
+    "description": "User description text"
+  },
+  "userNotFound": {
+    "defaultMessage": "ユーザーが見つかりません",
+    "description": "User not found text"
+  },
+  "userNotFoundDescription": {
+    "defaultMessage": "ユーザー名 {username} が存在しません。",
+    "description": "User not found description text"
+  },
+  "username": {
+    "defaultMessage": "ユーザー名",
+    "description": "Username label"
+  },
+  "users": {
+    "defaultMessage": "ユーザー",
+    "description": "Users plural label"
+  },
+  "usersDescription": {
+    "defaultMessage": "これらはすべて、Red Hat 組織のユーザーです。",
+    "description": "Description text for user list"
+  },
+  "usersInheritedRoles": {
+    "defaultMessage": "このグループには、組織内のすべてのユーザーがデフォルトで継承するロールが含まれています。",
+    "description": "Users inherited roles message"
+  },
+  "value": {
+    "defaultMessage": "値",
+    "description": "Value label"
+  },
+  "viewResourceDefinitions": {
+    "defaultMessage": "<strong>{permission}</strong> 権限のリソース定義を表示",
+    "description": "View resource definitions message"
+  },
+  "warning": {
+    "defaultMessage": "警告",
+    "description": "Waring label"
+  },
+  "whyNotSeeingAllPermissions": {
+    "defaultMessage": "なぜ私は私の許可のすべてが表示されないのですか?",
+    "description": "Why am I not seeing all of my permissions message"
+  },
+  "yes": {
+    "defaultMessage": "はい",
+    "description": "Yes label"
+  },
+  "yourPermissions": {
+    "defaultMessage": "あなたの {name} 権限",
+    "description": "Your bundle permissions label"
+  },
+  "yourRoles": {
+    "defaultMessage": "あなたの {name} ロール",
+    "description": "Your bundle roles label"
+  }
+}
+
