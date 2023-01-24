@@ -508,7 +508,7 @@
     "description": "Group name label"
   },
   "groupNameTakenText": {
-    "defaultMessage": "ステップ1:グループ情報に戻り、グループに固有のグループ名を選択してください。",
+    "defaultMessage": "ステップ1: グループ情報に戻り、グループに固有のグループ名を選択してください。",
     "description": "Group name taken error text"
   },
   "groupNameTakenTitle": {
@@ -620,7 +620,7 @@
     "description": "No role permissions text"
   },
   "noWildcardPermissions": {
-    "defaultMessage": "ワイルドカードの権限（例えば、承認：*：*）はこのテーブルに含まれておらず、カスタムロールに追加することはできません。",
+    "defaultMessage": "ワイルドカードの権限(例えば、承認：*：*) はこのテーブルに含まれておらず、カスタムロールに追加することはできません。",
     "description": "No wildcard permissions message"
   },
   "none": {
@@ -680,7 +680,7 @@
     "description": "Permission resources details message"
   },
   "permissionStringDescription": {
-    "defaultMessage": "permission文字列は、以下の入力から構成されています。ここでは、どのアプリケーションと、許可されるリソースタイプを示します。",
+    "defaultMessage": "Permission文字列は、以下の入力から構成されています。ここでは、どのアプリケーションと、許可されるリソースタイプを示します。",
     "description": "Permission string description text"
   },
   "permissionWillNotBeGrantedThroughRole": {
@@ -1044,7 +1044,7 @@
     "description": "Org. Admin hint about permissions"
   },
   "userDescription": {
-    "defaultMessage": "{username}の役割、グループ、権限。",
+    "defaultMessage": "{username} の役割、グループ、権限。",
     "description": "User description text"
   },
   "userNotFound": {
